@@ -10,7 +10,6 @@ p, ul, li {
 header h1, header h2, header h3, header h4, header h5, header h6 {
     color: #204a87 !important;
     font-weight: bold !important;
-    font-size: 120% !important;
 }
 
 section h1, section h2, section h3, section h4, section h5, section h6 {
@@ -20,7 +19,7 @@ section h1, section h2, section h3, section h4, section h5, section h6 {
 img { display: block; margin: auto; }
 
 body {
-  font: 20px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+  font: 24px Tahoma, "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
   background: #555753;
   padding: 0;
   margin: 0;
@@ -187,8 +186,8 @@ a {
 }
 
 pre {
-  font-size: 18px;
-  font-family: Monaco, Courier, monospace;
+  font-size: 20px;
+  font-family: "Lucida Console", Monaco, Courier, monospace;
 }
 
 li {
